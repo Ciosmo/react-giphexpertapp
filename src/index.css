@@ -28,6 +28,7 @@ button{
     border: 1px solid grey;
     border-radius: 6px;
     margin-bottom: 10px;
+    margin-right: 10px;
     overflow: hidden;
 }
 .card p{
@@ -37,5 +38,5 @@ button{
 }
 
 .card img{
-    max-height: 150px;
+    max-height: 170px;
 }
